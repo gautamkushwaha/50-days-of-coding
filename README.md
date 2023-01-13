@@ -1,5 +1,6 @@
 # 50-days-of-coding
 | Syntax      | Description | 
 | ----------- | ----------- | 
-|   C:\Users\Samsung\Desktop\50-days-of-coding\Dictionary   | Title       |
-| C:\Users\Samsung\Desktop\50-days-of-coding\my-app | Text        |
+|<a href ="https://github.com/pdkkg/50-days-of-coding/tree/main/Dictionary ">Dictionary  </a>  Dictionary   | Title       |
+| 
+<a href ="https://github.com/pdkkg/50-days-of-coding/tree/main/my-app "> my-app</a> | Text        |
